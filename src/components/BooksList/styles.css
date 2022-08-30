@@ -1,0 +1,10 @@
+.bookslist-wrapper {
+    display: flex;
+}
+
+.book-item {
+    display: inline;
+    width: 300px;
+    border: solid 0.5px;
+    margin: 5px;
+}
